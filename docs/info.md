@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+User inputs a four bit binary number from 0000 to 1001, the circuit converts that number to a seven bit number with each bit representing a segment on the seven segment display. The display then shows the user's number in decimal.
 
 ## How to test
 
-Explain how to use your project
+Try out multiple inputs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven Segment Dispplay
